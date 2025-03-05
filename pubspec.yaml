@@ -1,0 +1,34 @@
+name: flutter_pip_player
+description: A powerful, customizable Picture-in-Picture mini player for Flutter apps with smooth animations and edge snapping.
+version: 0.1.0
+homepage: https://github.com/Developer-ritesh/flutter_pip_player
+repository: https://github.com/Developer-ritesh/flutter_pip_player
+issue_tracker: https://github.com/Developer-ritesh/flutter_pip_player/issues
+
+metadata:
+  repository: https://github.com/Developer-ritesh/flutter_pip_player
+  website: https://biharigraphic.com/
+  linkedin: https://www.linkedin.com/in/developerritesh/
+
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+
+screenshots:
+  - description: 'Picture-in-Picture mini player Package Demo'
+    path: doc/flutter_pip_player.gif
