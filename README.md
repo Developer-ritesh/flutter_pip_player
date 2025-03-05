@@ -7,7 +7,7 @@ A powerful, customizable Picture-in-Picture (PiP) mini player for Flutter apps w
 
 <table>
   <tr>
-    <td colspan="2"><img src="doc/flutter_pip_player.gif?raw=true" alt="A powerful, customizable Picture-in-Picture mini player" height="400"/></td>
+    <td colspan="2"><img src="doc/flutter_pip_player.gif?raw=true" alt="A powerful, customizable Picture-in-Picture mini player" height="400" width="200"/></td>
     <td colspan="2"><img src="doc/s1.png?raw=true" alt="A powerful, customizable Picture-in-Picture mini player" height="400"/></td>
     <td colspan="2"><img src="doc/s2.png?raw=true" alt="A powerful, customizable Picture-in-Picture mini player" height="400"/></td>
     <td colspan="2"><img src="doc/s3.png?raw=true" alt="A powerful, customizable Picture-in-Picture mini player" height="400"/></td>
